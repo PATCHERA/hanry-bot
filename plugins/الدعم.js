@@ -8,7 +8,7 @@ conn.sendFile(m.chat, haha, 'error.jpg', `
 
 *『 ️واتساب 』*
 
-*⊱≼ https://wa.me/+22247072475 ≽⊰⊹*
+*⊱≼ https://wa.me/+967775302218 ≽⊰⊹*
 
 *『 ️منصاتي 』*
 
@@ -16,10 +16,10 @@ conn.sendFile(m.chat, haha, 'error.jpg', `
 
 *『 ️جروب واتساب 』*
 
-*⊱≼ SOON ≽⊰⊹*
+*⊱≼ https://chat.whatsapp.com/LFFLFVRwTezEIMs3b2hAHC ≽⊰⊹*
 
 *◉═══ • ❁ 👑 ❁ • ═══◉* `, m)
 }
 handler.command = handler.help = ['دعم','الدعم']
-handler.tags = ['kaneki']
+handler.tags = ['patchera']
 export default handler
